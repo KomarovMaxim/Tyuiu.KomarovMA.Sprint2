@@ -30,6 +30,7 @@ namespace Tyuiu.KomarovMA.Sprint2.Task3.V8.Lib
                 y = x + 10 * x - (5 / x);
             }
 
+
             return Math.Round(y, 3);
         }
     }
